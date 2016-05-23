@@ -70,5 +70,5 @@ void HuffmanCoding::help(const char * appname) {
         + "Using format: \t -d <code_to_decode> <code> <symbol> ...\n"
         + "For example:\t -d 010110 10 a 11 b 0 c\n"
         + "This command will decode \"010110\" into"
-        + "\"cabc\" using huffman code\n\n";
+        + "\"cabñc\" using huffman code\n\n";
 }
